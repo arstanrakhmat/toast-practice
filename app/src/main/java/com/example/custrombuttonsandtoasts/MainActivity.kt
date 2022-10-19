@@ -43,6 +43,10 @@ class MainActivity : AppCompatActivity() {
         }.show()
     }
 
+    private fun hello() {
+        println("dfgsfsf")
+    }
+
     private fun toastSuccess(text: String) {
         val inflater = layoutInflater
         val layout: View =
