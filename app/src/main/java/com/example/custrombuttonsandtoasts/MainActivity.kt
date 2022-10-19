@@ -47,6 +47,10 @@ class MainActivity : AppCompatActivity() {
         println("dfgsfsf")
     }
 
+    private fun bye() {
+        println("fdlsfhlsjafhjkshfjkhs")
+    }
+
     private fun toastSuccess(text: String) {
         val inflater = layoutInflater
         val layout: View =
