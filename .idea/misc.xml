@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ASProjects/CustromButtonsAndToasts/app/src/main/res/drawable/active_button_green.xml" value="0.1" />
+        <entry key="..\:/ASProjects/CustromButtonsAndToasts/app/src/main/res/drawable/active_button_green2.xml" value="0.1" />
+        <entry key="..\:/ASProjects/CustromButtonsAndToasts/app/src/main/res/drawable/background_error_hall_image.xml" value="0.1" />
+        <entry key="..\:/ASProjects/CustromButtonsAndToasts/app/src/main/res/drawable/background_success_hall_image.xml" value="0.1" />
+        <entry key="..\:/ASProjects/CustromButtonsAndToasts/app/src/main/res/drawable/custom_button.xml" value="0.1" />
+        <entry key="..\:/ASProjects/CustromButtonsAndToasts/app/src/main/res/drawable/ic__.xml" value="0.1" />
+        <entry key="..\:/ASProjects/CustromButtonsAndToasts/app/src/main/res/drawable/ic_triangle.xml" value="0.1" />
+        <entry key="..\:/ASProjects/CustromButtonsAndToasts/app/src/main/res/drawable/inactive_button_green.xml" value="0.1" />
+        <entry key="..\:/ASProjects/CustromButtonsAndToasts/app/src/main/res/drawable/loading_toast_background.xml" value="0.1" />
+        <entry key="..\:/ASProjects/CustromButtonsAndToasts/app/src/main/res/drawable/primary_button1.xml" value="0.1" />
+        <entry key="..\:/ASProjects/CustromButtonsAndToasts/app/src/main/res/drawable/primary_button2.xml" value="0.1" />
+        <entry key="..\:/ASProjects/CustromButtonsAndToasts/app/src/main/res/drawable/primary_color3.xml" value="0.2645" />
+        <entry key="..\:/ASProjects/CustromButtonsAndToasts/app/src/main/res/drawable/progress_bar_theme.xml" value="0.136" />
+        <entry key="..\:/ASProjects/CustromButtonsAndToasts/app/src/main/res/drawable/registration_button_gray.xml" value="0.1" />
+        <entry key="..\:/ASProjects/CustromButtonsAndToasts/app/src/main/res/drawable/succes_toast_background.xml" value="0.1" />
+        <entry key="..\:/ASProjects/CustromButtonsAndToasts/app/src/main/res/drawable/theme_progress_bar_for_toast_succes.xml" value="0.1" />
+        <entry key="..\:/ASProjects/CustromButtonsAndToasts/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/ASProjects/CustromButtonsAndToasts/app/src/main/res/layout/error_toast.xml" value="0.2" />
+        <entry key="..\:/ASProjects/CustromButtonsAndToasts/app/src/main/res/layout/loading_toast.xml" value="0.536" />
+        <entry key="..\:/ASProjects/CustromButtonsAndToasts/app/src/main/res/layout/progress_loading_item.xml" value="0.2128205128205128" />
+        <entry key="..\:/ASProjects/CustromButtonsAndToasts/app/src/main/res/layout/succes_toast.xml" value="0.259375" />
+        <entry key="..\:/ASProjects/CustromButtonsAndToasts/app/src/main/res/layout/success_toast.xml" value="0.4" />
+        <entry key="..\:/ASProjects/CustromButtonsAndToasts/app/src/main/res/layout/toast_timer.xml" value="0.72" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
